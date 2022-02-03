@@ -12,7 +12,7 @@ namespace GenericsArray
         {
             Console.WriteLine("Welcome to Generics Concept\n");
 
-
+            Console.ReadLine();
         }
     }
 }
